@@ -13,6 +13,6 @@ If in doubt, use the Gerber files.
 
 NOTE 2: This project is very "revision 1". It could do with improvements, so expect to need to do that. If you do improve it, please submit a merge request so that others can benefit from the improvements too. Many thanks!
 
-
-
-
+For more information, please see the following link:
+[Battery Analyzer Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/399/bk_precision_battery_1)
+(Page down to the section titled **Working with 4-Wire (Kelvin) Connections**)
